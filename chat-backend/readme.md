@@ -64,7 +64,7 @@ chat-backend/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/gitDevendra/chat-backend.git
+git clone [https://github.com/gitDevendra/chat-backend.git](https://github.com/GitDevendra/Scaled_Chatting_Application_)
 cd chat-backend
 npm install
 ```
