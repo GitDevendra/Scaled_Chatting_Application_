@@ -1,10 +1,10 @@
-# 🚀 Scalable Real-Time Chat Backend
+#  Scalable Real-Time Chat Backend
 
 An enterprise-grade, highly scalable real-time chat infrastructure built with **Node.js**, **Express**, **WebSockets**, **Redis**, and **Kafka** — designed to handle high-throughput, low-latency messaging with guaranteed delivery, ephemeral state management, and robust security, mimicking the architecture of modern large-scale applications like Discord or Slack.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 | Feature | Description |
 |---|---|
@@ -17,7 +17,7 @@ An enterprise-grade, highly scalable real-time chat infrastructure built with **
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Runtime:** Node.js (v18+)
 - **Framework:** Express.js
@@ -31,7 +31,7 @@ An enterprise-grade, highly scalable real-time chat infrastructure built with **
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 chat-backend/
@@ -53,7 +53,7 @@ chat-backend/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -257,10 +257,10 @@ if (res.conversation) pm.environment.set("conversationId", res.conversation._id)
 }
 ```
 
-> 💡 **Pro Tip:** Open a second Postman WebSocket tab with **User B's** token to watch messages traverse the Kafka broker and arrive in real-time.
+>  **Pro Tip:** Open a second Postman WebSocket tab with **User B's** token to watch messages traverse the Kafka broker and arrive in real-time.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Devendra**
